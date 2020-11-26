@@ -1,0 +1,1 @@
+En el inicio encontraras  información resumida e información de los creadores, en las tres rayitas encontrás el botón recursos, presionando lo se te desplegará más botones con diferentes nombre (ejemplo: Voto) cuando presiones alguno de esos te llevará a una nueva pestaña y te mostrará información más detallada, para volver al inicio presiona el botón "Inicio"
